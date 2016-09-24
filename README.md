@@ -3,8 +3,8 @@ List of Regex Examples
 
 
 * [Overview](#overview)
-* [Patters](#patterns)
-      * [Postal Code, Canadian](postalcode-canadian)
+* [Patterns](#patterns)
+      * [Postal Code, Canadian](postal-code-canadian)
 * [Reference Table](#reference-table)
 
 
