@@ -1,10 +1,8 @@
 # Regex-Examples
-List of Regex Examples
-
 
 * [Overview](#overview)
 * [Patterns](#patterns)
-      * [Postal Code, Canadian](postal-code-canadian)
+      * [Postal Code Canadian](postal-code-canadian)
 * [Reference Table](#reference-table)
 
 
