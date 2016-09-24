@@ -19,7 +19,7 @@ Simply a collection of Regex Patterns
 ^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$
 ```
 
-Valid Inputs:
+Valid Examples:
 
 * 555-555-5555
 * 555 555-5555
