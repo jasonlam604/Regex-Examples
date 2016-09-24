@@ -1,5 +1,7 @@
 # Regex-Examples
 
+**Looking at to add more! Please do! Open a pull request or issue!**
+
 * [Overview](#overview)
 * [Patterns](#patterns)
       * [Phone Number North America](#phone-number-north-america)
@@ -19,8 +21,7 @@ Simply a collection of Regex Patterns
 ^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$
 ```
 
-Valid Examples:
-
+>Valid Examples:
 * 555-555-5555
 * 555 555-5555
 * 555-555 5555
